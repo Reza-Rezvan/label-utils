@@ -1,6 +1,6 @@
 # Label Utils
 
-`label-utils` is a Python utility for validating and correcting label files in datasets used for machine learning tasks. This repository contains two scripts: `validate_labels.py` and `correct_labels.py`. These scripts help ensure that the label files in your dataset are valid and correct, preventing issues during model training and evaluation.
+`label-utils` is a Python utility for validating and correcting YOLO format label files in datasets used for machine learning tasks. This repository contains two scripts: `validate_labels.py` and `correct_labels.py`. These scripts help ensure that the label files in your dataset are valid and correct, preventing issues during model training and evaluation.
 
 ## Features
 
